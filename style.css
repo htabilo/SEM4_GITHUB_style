@@ -1,0 +1,17 @@
+/* Archivo Estilos.css */
+
+/* Se aplica directamente al elemento <body> */
+body {
+ color: blue;
+ background-color: brown;
+}
+/* Se aplica directamente a todos los elementos de tipo <p> */
+p {
+ color: red;
+}
+
+/* Se aplica en el(los) elemento(s) donde se use */
+.clase-css {
+ color: black;
+ background-color: blueviolet;
+}
